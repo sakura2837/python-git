@@ -1,3 +1,6 @@
 print([i for i in range(100)])
+print("hello git!!!")
+print("CRT")
+print("CRT")
 print("CRT")
 print("CRT")
